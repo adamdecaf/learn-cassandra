@@ -1,0 +1,13 @@
+# learn-cassandra docker-compose
+
+cassandra1:
+  image: cassandra/3.2
+  restart: always
+  # environment:
+  #   HI: hello
+
+# cassandra2:
+#   image: cassandra/3.2
+
+# cassandra3:
+#   image: cassandra/3.2
