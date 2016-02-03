@@ -5,6 +5,7 @@
 ## Libraries
 
 - https://github.com/gocql/gocql
+- https://github.com/mattes/migrate (migration tool)
 
 ## Documentation
 
